@@ -1,16 +1,21 @@
-### Hi there 👋
+### About Me 👋👩‍💻
 
-<!--
-**kevmeloo/kevmeloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, how are you? My name is Keven Melo and I'm a Systems Analysis and Development student at the University of Fortaleza - Unifor. I'm also graduated as a Computer Technician. I'm passionate about development and I'm always learning new technologies.
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML 
+- CSS
+- Javascript
+- React
+- Node.js
+- Cloud
+
+### Contact Me
+
+- <a href="https://www.linkedin.com/in/kevenmelo/">Linkedin</a>
+
+
+
+
+
