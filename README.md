@@ -7,7 +7,6 @@ Hello, how are you? My name is Keven Melo and I'm a Systems Analysis and Develop
 - HTML 
 - CSS
 - Javascript
-- React
 - Node.js
 - Cloud
 
