@@ -42,15 +42,6 @@ Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de F
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Sass</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
@@ -131,15 +122,7 @@ Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de F
       />
       <br /><strong>Git</strong>
     </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
+     
   </tr>
 </table>
 
