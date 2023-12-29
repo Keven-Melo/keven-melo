@@ -2,7 +2,7 @@
 
 <div align="justify">
     
-Olá, Me chamo Keven Melo, sou um Desenvolvedor Full Stack e estudante na Universidade de Fortaleza. No momento, estou concentrado em aprimorar meus conhecimentos em Desenvolvimento Web. Tenho um forte entusiasmo por explorar inovações tecnológicas e aplicá-las de maneira estratégica para enfrentar desafios do mundo real.
+Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de Fortaleza. No momento, estou concentrado em aprimorar meus conhecimentos em Desenvolvimento Web. Tenho um forte entusiasmo por explorar inovações tecnológicas e aplicá-las de maneira estratégica para enfrentar desafios do mundo real.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/kevenmelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
