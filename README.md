@@ -33,21 +33,21 @@ Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de F
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Jest.svg"
         width="48"
         height="48"
-        alt="Next.js"
+        alt="Jest"
       />
-      <br /><strong>Next.js</strong>
+      <br /><strong>Jest</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Docker.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="Docker"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -60,12 +60,12 @@ Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de F
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Sequelize-Dark.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Sequelize"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Sequelize</strong>
   
   </tr>
   <tr>
@@ -106,7 +106,7 @@ Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de F
       <br /><strong>PostgreSQL</strong>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/AWS-Dark.svg"
         width="48"
         height="48"
         alt="AWS"
