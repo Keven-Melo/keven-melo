@@ -2,7 +2,7 @@
 
 <div align="justify">
     
-Brazilian software engineer with a focus on frontend development, dedicated to creating interactive experiences and optimizing user satisfaction. Proficient in TypeScript/JavaScript and React, I aim to contribute to building innovative solutions as part of a team.
+Brazilian software engineer with a focus on frontend development, dedicated to creating interactive experiences and optimizing user satisfaction. Proficient in TypeScript/JavaScript and React.js, I aim to contribute to building innovative solutions as part of a team.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/kevenmelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
