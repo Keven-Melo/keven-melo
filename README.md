@@ -2,7 +2,7 @@
 
 <div align="justify">
     
-Olá, Me chamo Keven Melo, sou um Desenvolvedor e estudante na Universidade de Fortaleza. No momento, estou concentrado em aprimorar meus conhecimentos em Desenvolvimento Web. Tenho um forte entusiasmo por explorar inovações tecnológicas e aplicá-las de maneira estratégica para enfrentar desafios do mundo real.
+Brazilian software engineer with a focus on frontend development, dedicated to creating interactive experiences and optimizing user satisfaction. Proficient in TypeScript/JavaScript and React, I aim to contribute to building innovative solutions as part of a team.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/kevenmelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
