@@ -1,7 +1,8 @@
-Hi, there!
+Hi, I'm Keven 👨‍💻 — developer and AWS-certified cloud enthusiast passionate about building real-world products.
 
-DevOps Engineer focused on automation, CI/CD, and cloud infrastructure. Passionate about building scalable pipelines and optimizing AWS environments.
+💡 Currently developing a indie project that uses blockchain (Solidity + TypeScript + Node.js) to verify the authenticity of streetwear items.
 
-Tech Stack
+☁️ Focused on Java, Spring, DevOps, and Cloud Architecture — creating scalable, automated environments with AWS, Docker, and Kubernetes.
 
-AWS | GitHub Actions / Jenkins | Docker | Kubernetes | Terraform | Ansible | Python | Bash | Linux | Git
+Tech Stack:
+AWS | Java | TypeScript | Node.js | Solidity | Docker | Terraform | Kubernetes | Kafka | GitHub Actions
